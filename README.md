@@ -1,1 +1,1 @@
-HG - JKFHTS
+HG
